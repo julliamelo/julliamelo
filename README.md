@@ -1,19 +1,21 @@
 # Olá, eu sou a Júllia 👋
 
-Analista e desenvolvedora de sistemas. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
+Atuo em Tecnologia da Informação desde 2014 e hoje meu foco é desenvolvimento de sistemas e automação de processos. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
+
+Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas e consumo de APIs, unindo análise de sistemas, regras de negócio e dados para resolver problemas reais das empresas.
+
+🎓 Graduação em Análise e Desenvolvimento de Sistemas · Pós-graduação em Processamento de Linguagem Natural (PLN), AKCIT/UFG
 
 ## O que eu faço
 
-- **Automação de processos (RPA) com Python:** da leitura de planilhas e consultas até o relatório pronto
-- **Tratamento e manipulação de dados:** limpeza, validação e transformação com pandas, Excel (openpyxl) e SQL Server
-- **Integração com APIs públicas**, com tratamento de erro e nova tentativa automática quando a fonte falha
-- **Regras de negócio:** transformar critérios de decisão em código, como um semáforo de risco explicado critério por critério
-- **Melhoria contínua:** mapear o processo, achar o gargalo e eliminar o retrabalho
+- **RPA e automação de processos:** robôs com Python, Selenium e Playwright (web) e PyAutoGUI (desktop), n8n, manipulação de arquivos e planilhas com pandas, integração entre sistemas
+- **Python:** aplicações, estrutura de projetos, versionamento com Git e GitHub
+- **Desenvolvimento web:** Flask, HTML e CSS
+- **Análise de sistemas:** levantamento de requisitos, regras de negócio, mapeamento de processos e melhoria contínua
+- **Dados e BI:** extração e tratamento de dados (ETL com Python e Excel), SQL Server, modelagem de dados, Power BI e IBM Cognos
 - **QA e testes automatizados** com pytest, para o robô entregar o mesmo resultado sempre
-- **Aplicações web com Flask:** login, painel e histórico por usuário
-- **Logs e rastreabilidade:** saber o que o robô fez, quando e por quê
-- **Cuidado com dados pessoais (LGPD):** documentos mascarados e fontes identificadas
-- **Git e GitHub:** versionamento e documentação dos projetos
+- **Cuidado com dados pessoais (LGPD)** e rastreabilidade: logs de tudo que o robô faz
+- **Infraestrutura e suporte:** Active Directory, redes, segurança da informação, controle de acessos e manutenção técnica
 
 ## Projetos
 
@@ -38,10 +40,18 @@ Análise de dados de clima organizacional. Em construção.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Contato
+
+Aberta a novas oportunidades, de preferência remotas, como desenvolvedora RPA, desenvolvedora Python, analista de automação de processos ou analista de desenvolvimento de sistemas.
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/j%C3%BAllia-melo-5512a6194/).
