@@ -1,4 +1,4 @@
-# Sobre: Júllia Melo
+# Sobre:
 
 **Desenvolvedora Python e RPA · Automação de Processos · Análise e Desenvolvmento de Sistemas**
 
