@@ -1,8 +1,6 @@
-# Sobre:
+# Sobre
 
-**Desenvolvedora Python e RPA · Automação de Processos · Análise e Desenvolvmento de Sistemas**
-
-## Resumo profissional
+**Desenvolvedora Python e RPA · Automação de Processos · Análise e Desenvolvimento de Sistemas**
 
 Atuo em Tecnologia da Informação desde 2014 e hoje meu foco é desenvolvimento de sistemas e automação de processos. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
 
