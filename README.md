@@ -1,4 +1,8 @@
-# Olá, eu sou a Júllia 👋
+# Júllia Melo
+
+**Desenvolvedora Python e RPA · Automação de Processos · Análise de Sistemas**
+
+## Resumo profissional
 
 Atuo em Tecnologia da Informação desde 2014 e hoje meu foco é desenvolvimento de sistemas e automação de processos. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
 
