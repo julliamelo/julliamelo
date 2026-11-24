@@ -1,6 +1,6 @@
-# Júllia Melo
+# Sobre: Júllia Melo
 
-**Desenvolvedora Python e RPA · Automação de Processos · Análise de Sistemas**
+**Desenvolvedora Python e RPA · Automação de Processos · Análise e Desenvolvmento de Sistemas**
 
 ## Resumo profissional
 
