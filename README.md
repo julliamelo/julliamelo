@@ -2,7 +2,7 @@
 
 **Desenvolvedora Python Júnior · RPA · Automação de Processos · Análise e Desenvolvimento de Sistemas**
 
-Atuo em Tecnologia da Informação desde 2014. Hoje meu foco é desenvolvimento de sistemas e automação de processos, e estou no início da carreira como desenvolvedora, construindo projetos e aprendendo a cada um. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
+Atuo em Tecnologia da Informação desde 2014. Hoje meu foco é desenvolvimento de sistemas e automação de processos. Sigo em desenvolvimento profissional, construindo projetos e aprendendo na prática. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
 
 Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas e consumo de APIs, unindo análise de sistemas, regras de negócio e dados para resolver problemas reais das empresas.
 
