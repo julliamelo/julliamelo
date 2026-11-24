@@ -1,12 +1,19 @@
 # Olá, eu sou a Júllia 👋
 
-Analista e desenvolvedora de sistemas em Goiânia. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho.
+Analista e desenvolvedora de sistemas. Gosto de pegar uma tarefa repetitiva, entender onde ela trava e transformar em algo que roda sozinho, com análise crítica e detalhada para evitar retrabalho e garantir uma execução melhor.
 
 ## O que eu faço
 
-- Automação de processos (RPA) com **Python**
-- Tratamento e análise de dados com **pandas** e **SQL Server**
-- Melhoria contínua e **QA**
+- **Automação de processos (RPA) com Python:** da leitura de planilhas e consultas até o relatório pronto
+- **Tratamento e manipulação de dados:** limpeza, validação e transformação com pandas, Excel (openpyxl) e SQL Server
+- **Integração com APIs públicas**, com tratamento de erro e nova tentativa automática quando a fonte falha
+- **Regras de negócio:** transformar critérios de decisão em código, como um semáforo de risco explicado critério por critério
+- **Melhoria contínua:** mapear o processo, achar o gargalo e eliminar o retrabalho
+- **QA e testes automatizados** com pytest, para o robô entregar o mesmo resultado sempre
+- **Aplicações web com Flask:** login, painel e histórico por usuário
+- **Logs e rastreabilidade:** saber o que o robô fez, quando e por quê
+- **Cuidado com dados pessoais (LGPD):** documentos mascarados e fontes identificadas
+- **Git e GitHub:** versionamento e documentação dos projetos
 
 ## Projetos
 
