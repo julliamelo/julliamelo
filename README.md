@@ -17,7 +17,7 @@ Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas 
 - **Dados e BI:** extração e tratamento de dados (ETL com Python e Excel), SQL Server, modelagem de dados, Power BI e IBM Cognos
 - **QA e testes automatizados** com pytest, para o robô entregar o mesmo resultado sempre
 - **Cuidado com dados pessoais (LGPD)** e rastreabilidade: logs de tudo que o robô faz
-- **Gestão e suporte de plataforma:** controle de saldos e de permissões por ponto focal (o que cada um pode exportar e consumir), e coordenação dos pontos focais e das demandas
+- **Gestão e suporte de plataforma:** controle de saldos e permissões por pontos focais, liberação de acessos conforme os critérios de cada demanda e coordenação dos pontos focais
 - **Infraestrutura e suporte:** sistema operacional Windows, software e hardware, Active Directory, redes, segurança da informação, controle de acessos e manutenção técnica
 
 ## Projetos
