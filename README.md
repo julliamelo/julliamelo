@@ -45,7 +45,7 @@ O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o rob�
 
 | [Publicação 1: o robô](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: a plataforma CheckRoot](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
-| [![O robô da Receita em Python](imagens/publicacao-1-robo.png)](https://lnkd.in/p/dMwdxbUY) | [![A plataforma CheckRoot](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
+| [![O robô da Receita em Python](imagens/robo-consulta-cnpj.png)](https://lnkd.in/p/dMwdxbUY) | [![A plataforma CheckRoot](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
 
 ## Ferramentas
 
@@ -63,6 +63,6 @@ O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o rob�
 
 ## Contato
 
-Aberta a novas oportunidades, de preferência remotas, como desenvolvedora RPA júnior, desenvolvedora Python júnior, analista de automação de processos, analista de desenvolvimento de sistemas ou analista de pesquisa e desenvolvimento.
+Aberta a novas oportunidades como desenvolvedora RPA júnior, desenvolvedora Python júnior, analista de automação de processos e IA, analista de desenvolvimento de sistemas ou analista de pesquisa e desenvolvimento.
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/j%C3%BAllia-melo-5512a6194/).
