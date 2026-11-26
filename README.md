@@ -23,7 +23,7 @@ Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas 
 ## Projetos
 
 **[RPA-Automacao-Receita-Portfolio](https://github.com/julliamelo/RPA-Automacao-Receita-Portfolio)**
-Plataforma web que consulta o CNPJ de uma empresa em fontes públicas e entrega um dossiê com semáforo de risco, com login e histórico por usuário. Começou como um robô que conferia listas de CNPJ e gerava Excel.
+Começou como um robô que conferia listas de CNPJ e gerava Excel. Hoje é um projeto maior, com interface: uma plataforma web que consulta o CNPJ de uma empresa em fontes públicas e entrega um dossiê com semáforo de risco, com login e histórico por usuário.
 
 **[RPA-Listas](https://github.com/julliamelo/RPA-Listas)**
 Script em Python que pega uma lista grande de contatos e separa em um Excel por unidade, com a limpeza dos dados feita no caminho. Código aberto, com planilha de exemplo para testar.
