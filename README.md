@@ -22,7 +22,7 @@ Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas 
 
 ## Projetos
 
-**[RPA-Automacao-Receita](https://github.com/julliamelo/RPA-Automacao-Receita)**
+**[RPA-Automacao-Receita-Portfolio](https://github.com/julliamelo/RPA-Automacao-Receita-Portfolio)**
 Plataforma web que consulta o CNPJ de uma empresa em fontes públicas e entrega um dossiê com semáforo de risco, com login e histórico por usuário. Começou como um robô que conferia listas de CNPJ e gerava Excel.
 
 **[RPA-Listas](https://github.com/julliamelo/RPA-Listas)**
@@ -37,7 +37,7 @@ Chatbot de nutrição com IA (RAG), meu TCC de pós-graduação em PLN.
 **[Clima-Analise-Trabalho](https://github.com/julliamelo/Clima-Analise-Trabalho)**
 Análise de dados de clima organizacional. Em construção.
 
-> O `RPA-Automacao-Receita` e os repositórios com `-Portfolio` no nome mostram o que cada projeto faz. O código completo desses fica em repositório privado.
+> Os repositórios com `-Portfolio` no nome mostram o que cada projeto faz. O código completo desses fica em repositório privado.
 
 ## Destaque no LinkedIn
 
@@ -45,7 +45,7 @@ O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o rob�
 
 | [Publicação 1: o robô](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: a plataforma CheckRoot](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
-| ![Trecho do código do robô de consulta](imagens/codigo-robo.png) | ![Trecho do código da aplicação web](imagens/codigo-plataforma.png) |
+| [![O robô da Receita em Python](imagens/publicacao-1-robo.png)](https://lnkd.in/p/dMwdxbUY) | [![A plataforma CheckRoot](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
 
 ## Ferramentas
 
