@@ -22,7 +22,7 @@ Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas 
 
 ## Projetos
 
-**[RPA-Automacao-Receita-CheckRoot-Portfolio](https://github.com/julliamelo/RPA-Automacao-Receita-CheckRoot-Portfolio)**
+**[RPA-Automacao-Receita](https://github.com/julliamelo/RPA-Automacao-Receita)**
 Plataforma web que consulta o CNPJ de uma empresa em fontes públicas e entrega um dossiê com semáforo de risco, com login e histórico por usuário. Começou como um robô que conferia listas de CNPJ e gerava Excel.
 
 **[RPA-Listas](https://github.com/julliamelo/RPA-Listas)**
@@ -37,11 +37,11 @@ Chatbot de nutrição com IA (RAG), meu TCC de pós-graduação em PLN.
 **[Clima-Analise-Trabalho](https://github.com/julliamelo/Clima-Analise-Trabalho)**
 Análise de dados de clima organizacional. Em construção.
 
-> Os repositórios com `-Portfolio` no nome mostram o que cada projeto faz. O código completo desses fica em repositório privado.
+> O `RPA-Automacao-Receita` e os repositórios com `-Portfolio` no nome mostram o que cada projeto faz. O código completo desses fica em repositório privado.
 
 ## Destaque no LinkedIn
 
-O projeto da Receita Federal teve ótimo retorno nas publicações. Veja o robô e a plataforma funcionando:
+O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o robô e a plataforma funcionando:
 
 | [Publicação 1: o robô](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: a plataforma CheckRoot](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
@@ -63,6 +63,6 @@ O projeto da Receita Federal teve ótimo retorno nas publicações. Veja o robô
 
 ## Contato
 
-Aberta a novas oportunidades, de preferência remotas, como desenvolvedora RPA júnior, desenvolvedora Python júnior, analista de automação de processos ou analista de desenvolvimento de sistemas.
+Aberta a novas oportunidades, de preferência remotas, como desenvolvedora RPA júnior, desenvolvedora Python júnior, analista de automação de processos, analista de desenvolvimento de sistemas ou analista de pesquisa e desenvolvimento.
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/j%C3%BAllia-melo-5512a6194/).
