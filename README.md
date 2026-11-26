@@ -45,7 +45,7 @@ O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o rob�
 
 | [Publicação 1: o robô](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: a plataforma CheckRoot](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
-| ![O robô da Receita em Python](imagens/publicacao-1-robo.png) | ![A plataforma CheckRoot](imagens/publicacao-2-plataforma.png) |
+| ![Trecho do código do robô de consulta](imagens/codigo-robo.png) | ![Trecho do código da aplicação web](imagens/codigo-plataforma.png) |
 
 ## Ferramentas
 
