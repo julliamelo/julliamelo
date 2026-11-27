@@ -8,7 +8,7 @@ Desenvolvo robôs RPA e aplicações em Python, com integração entre sistemas 
 
 🎓 Graduação em Análise e Desenvolvimento de Sistemas · Pós-graduação em Processamento de Linguagem Natural (PLN), AKCIT/UFG
 
-## O que eu faço
+## Competências
 
 - **RPA e automação de processos:** robôs com Python, Selenium e Playwright (web) e PyAutoGUI (desktop), n8n, manipulação de arquivos e planilhas com pandas, integração entre sistemas
 - **Python:** aplicações, estrutura de projetos, versionamento com Git e GitHub
