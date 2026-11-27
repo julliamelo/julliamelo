@@ -41,7 +41,7 @@ Análise de dados de clima organizacional. Em construção.
 
 ## Destaque no LinkedIn
 
-O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o robô e a plataforma funcionando:
+O projeto de consulta de CNPJ está em desenvolvimento e teve ótimo retorno. Confira as publicações:
 
 | [Publicação 1: robô de automação](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: automação / plataforma web](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
