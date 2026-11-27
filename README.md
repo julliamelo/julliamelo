@@ -43,9 +43,9 @@ Análise de dados de clima organizacional. Em construção.
 
 O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o robô e a plataforma funcionando:
 
-| [Publicação 1: o robô](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: a plataforma CheckRoot](https://lnkd.in/p/ddpQVW5M) |
+| [Publicação 1: robô de automação](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: plataforma web com interface](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
-| [![O robô da Receita em Python](imagens/robo-consulta-cnpj.png)](https://lnkd.in/p/dMwdxbUY) | [![A plataforma CheckRoot](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
+| [![O robô da Receita em Python](imagens/robo-consulta-cnpj.png)](https://lnkd.in/p/dMwdxbUY) | [![Plataforma web com interface](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
 
 ## Ferramentas
 
