@@ -43,7 +43,7 @@ Análise de dados de clima organizacional. Em construção.
 
 O projeto de consulta de CNPJ está em desenvolvimento e teve ótimo retorno. Confira as publicações:
 
-| [Publicação 1: robô de automação](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: automação / plataforma web](https://lnkd.in/p/ddpQVW5M) |
+| [Publicação 1: Robô de Automação](https://lnkd.in/p/dMwdxbUY) | [Publicação 2: Automação / Plataforma Web](https://lnkd.in/p/ddpQVW5M) |
 |---|---|
 | [![O robô da Receita em Python](imagens/robo-automacao.png)](https://lnkd.in/p/dMwdxbUY) | [![Automação e plataforma web](imagens/publicacao-2-plataforma.png)](https://lnkd.in/p/ddpQVW5M) |
 
