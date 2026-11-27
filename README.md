@@ -64,6 +64,6 @@ O projeto de consulta de CNPJ teve ótimo retorno nas publicações. Veja o rob�
 
 ## Contato
 
-Aberta a novas oportunidades como desenvolvedora RPA júnior, desenvolvedora Python júnior, analista de automação de processos e IA, analista de desenvolvimento de sistemas ou analista de pesquisa e desenvolvimento.
+Aberta a novas oportunidades como desenvolvedora RPA Júnior, desenvolvedora Python Júnior, analista de automação de processos e IA, analista de desenvolvimento de sistemas ou analista de pesquisa e desenvolvimento.
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/j%C3%BAllia-melo-5512a6194/).
